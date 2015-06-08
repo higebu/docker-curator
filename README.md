@@ -5,5 +5,5 @@ Elasticsearch curator docker image based on Alpine Linux.
 ## Usage
 
 ```
-docker run --rm higebu/curator -h
+docker run --rm higebu/curator --help
 ```
