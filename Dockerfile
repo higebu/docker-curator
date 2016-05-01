@@ -1,5 +1,5 @@
 FROM higebu/python
 
-RUN pip install elasticsearch-curator==3.1.0
+RUN pip install elasticsearch-curator==3.5.1
 
 ENTRYPOINT ["curator"]
